@@ -1,52 +1,25 @@
-2026-03-14 10:54:38,196 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 10:54:39,266 - INFO - Order Response: {}
-2026-03-14 10:54:49,566 - INFO - Order Request: BTCUSDT SELL LIMIT 0.01
-2026-03-14 10:54:50,540 - INFO - Order Response: {}
-2026-03-14 11:15:14,887 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:15:15,901 - INFO - Order Response: {}
-2026-03-14 11:15:27,986 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:15:29,119 - INFO - Order Response: {}
-2026-03-14 11:16:17,443 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:16:18,764 - INFO - Order Response: {}
-2026-03-14 11:30:35,656 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:30:37,846 - INFO - Order Response: {}
 2026-03-14 11:34:00,067 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
 2026-03-14 11:34:01,987 - INFO - Order Response: {}
 2026-03-14 11:38:51,775 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:38:51,775 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:38:53,974 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:38:53,974 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:44:48,661 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
-2026-03-14 11:44:48,661 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
-2026-03-14 11:44:49,888 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:44:49,888 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:45:03,867 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:45:04,400 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:45:44,400 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:45:44,983 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:46:15,598 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
-2026-03-14 11:46:16,702 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:47:13,866 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:47:14,762 - INFO - Order Response: {}
-2026-03-14 11:50:29,160 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:50:29,855 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:50:59,210 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:51:00,145 - INFO - Order Response: {}
-2026-03-14 11:53:05,795 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:53:06,735 - INFO - Order Response: {}
-2026-03-14 11:53:26,288 - INFO - Order Request: BTCUSDT SELL MARKET 0.01
-2026-03-14 11:53:26,789 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:55:49,542 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:55:50,119 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:56:48,342 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:56:48,921 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:57:14,085 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:57:14,690 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 11:59:12,806 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 11:59:13,367 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-03-14 12:01:00,534 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
-2026-03-14 12:01:01,360 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
 2026-03-14 12:15:14,424 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
 2026-03-14 12:15:14,601 - INFO - Order Response: {}
 2026-03-14 12:46:51,374 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
 2026-03-14 12:46:51,571 - INFO - Order Response: {'orderId': 12804324250, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ430322e446c5fcd535a90d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773472612355}
+2026-03-14 14:38:22,826 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
+2026-03-14 14:38:23,026 - INFO - Order Response: {'orderId': 12805861717, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ83470078b4df4ac9c1f8ec', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773479303973}
+2026-03-14 14:38:53,534 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
+2026-03-14 14:38:53,733 - INFO - Order Response: {'orderId': 12805867233, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ45b6de1c1b655e0725bc47', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773479334676}
+2026-03-14 14:39:19,130 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
+2026-03-14 14:39:19,331 - INFO - Order Response: {'orderId': 12805873815, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc16ed073c6c0b69fd9fd67', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773479360270}
+2026-03-14 14:43:55,806 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
+2026-03-14 14:44:07,753 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:46:07,909 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
+2026-03-14 14:46:07,909 - INFO - Order Request: BTCUSDT BUY MARKET 0.01
+2026-03-14 14:46:18,392 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:46:18,392 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:47:31,509 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:47:31,509 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:47:31,509 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:47:41,577 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:47:41,577 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01
+2026-03-14 14:47:41,577 - INFO - Order Request: BTCUSDT BUY LIMIT 0.01

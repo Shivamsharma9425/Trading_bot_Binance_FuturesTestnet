@@ -4,11 +4,8 @@ from bot.logging_config import setup_logger
 logger = setup_logger()
 
 def place_order(symbol, side, order_type, quantity, price=None):
-
-    
-
     client = get_client()
-    print(client.futures_account_balance())
+    # print(client.futures_account_balance())
     try:
 
         logger.info(f"Order Request: {symbol} {side} {order_type} {quantity}")
@@ -33,7 +30,7 @@ def place_order(symbol, side, order_type, quantity, price=None):
                 timeInForce="GTC"
             )
 
-        logger.info(f"Order Response: {order}")
+        # logger.info(f"Order Response: {order}")
 
         return order   
         

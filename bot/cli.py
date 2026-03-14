@@ -37,7 +37,7 @@ def run_cli():
             quantity=args.quantity,
             price=args.price
         )
-        print(order)
+        # print(order) for testing...
         
         print("\nOrder Successful")
         print("Order ID:", order["orderId"])

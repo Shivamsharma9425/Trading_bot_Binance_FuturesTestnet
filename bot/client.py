@@ -1,6 +1,6 @@
-from binance.client import Client
+from binance.client import Client # type: ignore
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 
 load_dotenv()
 
